@@ -14,92 +14,33 @@ The dataset consists of a csv file: https://www.kaggle.com/maysee/mushrooms-clas
 ### Data processing & Exploratory Data Analysis:
 
     1.Import Libraries
-    2.Load Data
-    3.Exploratory Data Analysis[EDA]
-    4.Followers and Retweets
-    5.Missing Values
-    6.Unique Values
-    7.Most frequent values
-    8.Distribution of words in text column
-    9.Data distribution
-    10.Word-Clouds
-    11.Hashtags
-    12.Correlation
+    2.Loading and processing data
+    3.Creating a model
+    4.Display Results
+    
            
 ## RESULTS :
 
-#### Types of Twitter accounts
-![Types of Twitter accounts](./PFIZER_1.png)
+#### Displaying images from each class
+![Displaying images from each class](./PFIZER_1.png)
 
-#### Top-5 Sources (Platform) of tweets
-![Top-5 Sources (Platform) of tweets](./PFIZER_2.png)
+#### Res-Net50 model summary
+![Res-Net50 model summary](./PFIZER_2.png)
 
-#### Platform with maximum number of tweets
-![Platform with maximum number of tweets](./PFIZER_3.png)
+#### Sequential model with the final dense layer
+![Sequential model with the final dense layer](./PFIZER_3.png)
 
-#### Day with maximum tweets
-![Day with maximum tweets](./PFIZER_4.png)
+#### Results of Model performance
+![Results of Model performance](./PFIZER_4.png)
 
-#### Top-10 users with maximum number of tweets
-![Top-10 users with maximum number of tweets](./PFIZER_5.png)
+#### Loss during training
+![Loss during training](./PFIZER_5.png)
 
-#### Top-10 locations with maximum number of users
-![Top-10 locations with maximum number of users](./PFIZER_6.png)
+#### Accuracy during training
+![Accuracy during training](./PFIZER_6.png)
 
-#### Number of Followers and Retweets for each type of user
-![Number of Followers and Retweets for each type of user](./PFIZER_7.png)
-
-#### Places of missing values in column
-![Places of missing values in column](./PFIZER_8.png)
-
-#### Barplot for unique values in each column
-![Barplot for unique values in each column](./PFIZER_9.png)
-
-#### Distribution of words in text column
-![Distribution of words in text column](./PFIZER_10.png)
-
-#### Data distribution of Username
-![Data distribution of Username](./PFIZER_11.png)
-
-#### Data distribution of User Location
-![Data distribution of User Location](./PFIZER_12.png)
-
-#### Data distribution of Tweet Source
-![Data distribution of Tweet Source](./PFIZER_13.png)
-
-#### Prevalent words in tweets
-![Prevalent words in tweets](./PFIZER_14.png)
-
-#### INDIA:
-![Most Tweet Sources used in India](./PFIZER_15.png)
-![Prevalent words in tweets from India](./PFIZER_16.png)
-
-#### UNITED STATES:
-![Most Tweet Sources used in United States](./PFIZER_17.png)
-![Prevalent words in tweets from US](./PFIZER_18.png)
-
-#### UNITED KINGDOM:
-![Most Tweet Sources used in UK](./PFIZER_19.png)
-![Prevalent words in tweets from UK](./PFIZER_20.png)
-
-#### CANADA:
-![Most Tweet Sources used in Canada](./PFIZER_21.png)
-![Prevalent words in tweets from Canada](./PFIZER_22.png)
-
-#### Hashtags
-![Hashtags](./PFIZER_23.png)
-
-#### Top-5 Hashtags
-![Top-5 Hashtags](./PFIZER_24.png)
-
-#### Hashtags per tweet
-![Hashtags per tweet](./PFIZER_25.png)
-
-#### Prevalent words in hashtags
-![Prevalent words in hashtags](./PFIZER_26.png)
-
-#### Correlation among various Numerical Features
-![Correlation among various Numerical Features](./PFIZER_27.png)
+#### Accuracy on test set
+![Accuracy on test set](./PFIZER_7.png)
 
 ### For further information:
 
