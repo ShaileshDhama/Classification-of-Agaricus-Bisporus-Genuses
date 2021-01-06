@@ -26,25 +26,26 @@ The dataset consists of a csv file: https://www.kaggle.com/maysee/mushrooms-clas
 
 #### Res-Net50 model summary
 ![Res-Net50 model summary](./MUSHROOM_2.png)
+![Res-Net50 model summary](./MUSHROOM_3.png)
 
 #### Sequential model with the final dense layer
-![Sequential model with the final dense layer](./MUSHROOM_3.png)
+![Sequential model with the final dense layer](./MUSHROOM_4.png)
 
 #### Sequential model training
-![Sequential model training](./MUSHROOM_4.png)
 ![Sequential model training](./MUSHROOM_5.png)
+![Sequential model training](./MUSHROOM_6.png)
 
 #### Results of Model performance
-![Results of Model performance](./MUSHROOM_6.png)
+![Results of Model performance](./MUSHROOM_7.png)
 
 #### Loss during training
-![Loss during training](./MUSHROOM_7.png)
+![Loss during training](./MUSHROOM_8.png)
 
 #### Accuracy during training
-![Accuracy during training](./MUSHROOM_8.png)
+![Accuracy during training](./MUSHROOM_9.png)
 
 #### Accuracy on test set
-![Accuracy on test set](./MUSHROOM_9.png)
+![Accuracy on test set](./MUSHROOM_10.png)
 
 ### For further information:
 
